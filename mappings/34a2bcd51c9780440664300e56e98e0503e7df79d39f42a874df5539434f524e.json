@@ -1,0 +1,24 @@
+{
+  "subject": "34a2bcd51c9780440664300e56e98e0503e7df79d39f42a874df5539434f524e",
+  "name": [
+    { "value": "EAT CORN", "lang": "en" }
+  ],
+  "ticker": [
+    { "value": "CORN", "lang": "en" }
+  ],
+  "description": [
+    { "value": "EAT CORN (CORN) is a fun and community-driven token celebrating the joy of sharing and eating corn. It powers the EAT CORN network, bringing together fans, farmers, and foodies in the Cardano ecosystem.", "lang": "en" }
+  ],
+  "policies": [
+    "34a2bcd51c9780440664300e56e98e0503e7df79d39f42a874df5539"
+  ],
+  "decimals": 0,
+  "references": [
+    {
+      "mediaType": "image/png",
+      "src": [
+        "ipfs://QmYmtq54yaDTMiQfsFzeb2mrJLSPCE2sjyoEgYgPgRQeiF"
+      ]
+    }
+  ]
+}
