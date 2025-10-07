@@ -1,0 +1,24 @@
+{
+  "subject": "129e4c534eff386534a7578ac58a997dbe396f0d207633c42fd39b0f564943",
+  "name": [
+    { "value": "Veterans Insulation Coin", "lang": "en" }
+  ],
+  "ticker": [
+    { "value": "VIC", "lang": "en" }
+  ],
+  "description": [
+    { "value": "Veterans Insulation Coin (VIC) is a utility token created by Veterans Insulation & Coatings LLC to recognize craftsmanship, integrity, and service within the building trades. VIC represents more than value; it stands for the dedication of veterans and skilled workers who build America’s future one project at a time.  Each VIC token reflects the company’s mission to combine professional excellence with the values learned through military service—discipline, precision, and trust. It supports fair-pay initiatives, training programs for veterans entering construction careers, and adoption of advanced, energy-efficient materials such as open- and closed-cell spray foam insulation.  VIC connects contractors, clients, and community members in a transparent on-chain ecosystem that rewards reliability, accountability, and sustainable results. It demonstrates how blockchain technology can bring honesty and innovation to real-world work—bridging digital assets with tangible performance.  Veterans Insulation Coin: Built by veterans. Backed by values. Driven by excellence.", "lang": "en" }
+  ],
+  "policies": [
+    "129e4c534eff386534a7578ac58a997dbe396f0d207633c42fd39b0f"
+  ],
+  "decimals": 0,
+  "references": [
+    {
+      "mediaType": "image/vnd.microsoft.icon",
+      "src": [
+        "ipfs://QmYZRiHNyQaYh6P5CHAiiVhuJH1V8YE6J9PRyWnyx7rjxq"
+      ]
+    }
+  ]
+}
